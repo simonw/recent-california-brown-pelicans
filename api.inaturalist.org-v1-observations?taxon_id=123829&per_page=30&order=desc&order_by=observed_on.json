@@ -60,6 +60,44 @@
             "moderator_actions": [],
             "hidden": false
           }
+        },
+        {
+          "id": 457000976,
+          "position": 1,
+          "uuid": "f5b9c247-7666-4cc2-8d4f-0dd6c7da651d",
+          "photo_id": 491589867,
+          "photo": {
+            "id": 491589867,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491589867/square.jpg",
+            "attribution": "(c) clarawoodie, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 457006152,
+          "position": 2,
+          "uuid": "eb0e39ef-7d25-4fff-949c-d8a79d4f755c",
+          "photo_id": 491590070,
+          "photo": {
+            "id": 491590070,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491590070/square.jpg",
+            "attribution": "(c) clarawoodie, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
         }
       ],
       "geojson": {
