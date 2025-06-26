@@ -26,6 +26,25 @@
             "moderator_actions": [],
             "hidden": false
           }
+        },
+        {
+          "id": 489695016,
+          "position": 1,
+          "uuid": "8db076fe-9657-4b64-a049-c4ce11b7ef3a",
+          "photo_id": 526885391,
+          "photo": {
+            "id": 526885391,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 702,
+              "height": 1062
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526885391/square.jpg",
+            "attribution": "(c) Joseph Greco, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
         }
       ],
       "geojson": {
