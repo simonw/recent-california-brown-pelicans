@@ -1,8 +1,42 @@
 {
-  "total_results": 526,
+  "total_results": 527,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 296065287,
+      "time_observed_at": "2025-07-07T07:23:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 495359531,
+          "position": 0,
+          "uuid": "8b81ada4-9d5f-4fbe-bb83-e93f71f4deee",
+          "photo_id": 533052616,
+          "photo": {
+            "id": 533052616,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1080,
+              "height": 864
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533052616/square.jpg",
+            "attribution": "(c) J. Roe, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.5020003307,
+          37.8951127923
+        ]
+      },
+      "place_guess": "Strawberry, CA, USA"
+    },
     {
       "id": 294774938,
       "time_observed_at": "2025-07-02T17:38:00-07:00",
@@ -1501,40 +1535,6 @@
         ]
       },
       "place_guess": "Moss Landing, CA 95039, USA"
-    },
-    {
-      "id": 281937023,
-      "time_observed_at": "2025-05-15T12:25:49-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 470922070,
-          "position": 0,
-          "uuid": "800eb218-ec1d-40f0-ac6e-7a40f336eb72",
-          "photo_id": 506495906,
-          "photo": {
-            "id": 506495906,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1822,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506495906/square.jpg",
-            "attribution": "(c) Alan Prather, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.591100812,
-          34.047657216
-        ]
-      },
-      "place_guess": "Santa Barbara County, CA, USA"
     }
   ]
 }
