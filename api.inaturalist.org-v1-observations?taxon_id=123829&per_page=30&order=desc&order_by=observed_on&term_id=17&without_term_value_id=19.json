@@ -1,5 +1,5 @@
 {
-  "total_results": 537,
+  "total_results": 538,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -562,6 +562,78 @@
         ]
       },
       "place_guess": "Curry County, OR, USA"
+    },
+    {
+      "id": 293628704,
+      "time_observed_at": "2025-06-15T10:17:55-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 491141095,
+          "position": 0,
+          "uuid": "cd7c77bf-1aa4-42eb-a05d-c3609ef21695",
+          "photo_id": 528456542,
+          "photo": {
+            "id": 528456542,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1112,
+              "height": 741
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528456542/square.jpg",
+            "attribution": "(c) Mary Fenwick, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 491141110,
+          "position": 1,
+          "uuid": "b73ea8a7-845f-4e1f-8bee-e1730e79dc62",
+          "photo_id": 528456561,
+          "photo": {
+            "id": 528456561,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1582,
+              "height": 1055
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528456561/square.jpg",
+            "attribution": "(c) Mary Fenwick, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 491141147,
+          "position": 2,
+          "uuid": "010c2035-36bd-47d0-becb-366dc4817e16",
+          "photo_id": 528456584,
+          "photo": {
+            "id": 528456584,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1366
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528456584/square.jpg",
+            "attribution": "(c) Mary Fenwick, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -119.1645602014,
+          34.1229400059
+        ]
+      },
+      "place_guess": "Ormond Beach, Oxnard, CA, US"
     },
     {
       "id": 288389591,
@@ -1444,40 +1516,6 @@
         ]
       },
       "place_guess": "Santa Cruz Wharf, Santa Cruz, CA, US"
-    },
-    {
-      "id": 283203107,
-      "time_observed_at": "2025-05-22T12:00:31-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 473132233,
-          "position": 0,
-          "uuid": "8cee7d1f-508d-4e02-a15f-b15dd658f303",
-          "photo_id": 508883077,
-          "photo": {
-            "id": 508883077,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508883077/square.jpg",
-            "attribution": "(c) Keith P, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.3921494599,
-          33.8388981913
-        ]
-      },
-      "place_guess": "Santa Monica Bay, Redondo Beach, CA, US"
     }
   ]
 }
