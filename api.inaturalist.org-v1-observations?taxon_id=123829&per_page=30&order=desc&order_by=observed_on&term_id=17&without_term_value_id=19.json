@@ -500,11 +500,11 @@
       "geojson": {
         "type": "Point",
         "coordinates": [
-          -122.5830001831,
-          41.4981994629
+          -124.0881057963,
+          41.551287302
         ]
       },
-      "place_guess": "Klamath National Forest, CA, US"
+      "place_guess": "Coastal Trail-Klamath Section, Klamath, CA, US"
     },
     {
       "id": 303538597,
