@@ -1,8 +1,42 @@
 {
-  "total_results": 823,
+  "total_results": 825,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 307189763,
+      "time_observed_at": "2025-08-17T18:01:25-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 514687808,
+          "position": 0,
+          "uuid": "9b63e482-7cdc-45ce-b52b-e70baae746b9",
+          "photo_id": 554050341,
+          "photo": {
+            "id": 554050341,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554050341/square.jpg",
+            "attribution": "(c) Amy Ruegg, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.53018,
+          38.7668833333
+        ]
+      },
+      "place_guess": "Gualala Bluff Trail, Gualala, CA, US"
+    },
     {
       "id": 307195196,
       "time_observed_at": "2025-08-17T11:12:49-07:00",
@@ -1615,78 +1649,6 @@
         ]
       },
       "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 303860115,
-      "time_observed_at": "2025-08-03T10:42:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 508856257,
-          "position": 0,
-          "uuid": "21af90d5-65a3-488c-9768-d5ab94109503",
-          "photo_id": 547717024,
-          "photo": {
-            "id": 547717024,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1002
-            },
-            "url": "https://static.inaturalist.org/photos/547717024/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 508856408,
-          "position": 1,
-          "uuid": "141265cd-1378-4a48-a286-e30f552bf398",
-          "photo_id": 547717581,
-          "photo": {
-            "id": 547717581,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 888
-            },
-            "url": "https://static.inaturalist.org/photos/547717581/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 508856441,
-          "position": 2,
-          "uuid": "e7802c85-971a-4102-a264-6accbf647e92",
-          "photo_id": 547717630,
-          "photo": {
-            "id": 547717630,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 745
-            },
-            "url": "https://static.inaturalist.org/photos/547717630/square.jpg",
-            "attribution": "(c) Henry Fabian, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.788229599,
-          36.8073259793
-        ]
-      },
-      "place_guess": "Moss Landing, CA 95039, USA"
     }
   ]
 }
