@@ -1,8 +1,42 @@
 {
-  "total_results": 853,
+  "total_results": 854,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 311776393,
+      "time_observed_at": "2025-09-05T13:43:21-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 522761027,
+          "position": 0,
+          "uuid": "c0ba320e-bfe7-4b27-87b9-c30e289fbb1e",
+          "photo_id": 562842745,
+          "photo": {
+            "id": 562842745,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562842745/square.jpg",
+            "attribution": "(c) davidcor, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4113383144,
+          37.8109433456
+        ]
+      },
+      "place_guess": "San Francisco County, US-CA, US"
+    },
     {
       "id": 311295298,
       "time_observed_at": "2025-09-01T10:45:39-07:00",
@@ -1539,40 +1573,6 @@
         ]
       },
       "place_guess": "Sunset Beach"
-    },
-    {
-      "id": 304749258,
-      "time_observed_at": "2025-08-07T12:04:39-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 510412319,
-          "position": 0,
-          "uuid": "2ba93e18-2ced-4cc4-8d99-1320f80025f2",
-          "photo_id": 549413367,
-          "photo": {
-            "id": 549413367,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549413367/square.jpg",
-            "attribution": "(c) Emily Mikhail, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.8265722222,
-          34.0180416667
-        ]
-      },
-      "place_guess": "Western Malibu, Malibu, CA 90265, USA"
     }
   ]
 }
