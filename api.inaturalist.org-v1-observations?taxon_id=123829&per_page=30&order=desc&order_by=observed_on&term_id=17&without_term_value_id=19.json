@@ -1,5 +1,5 @@
 {
-  "total_results": 874,
+  "total_results": 876,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -286,6 +286,40 @@
         ]
       },
       "place_guess": "Scenic Rd, Carmel, CA, US"
+    },
+    {
+      "id": 315547589,
+      "time_observed_at": "2025-09-08T15:16:32-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 529396339,
+          "position": 0,
+          "uuid": "f7078820-225a-45de-9c9e-bb94fc106651",
+          "photo_id": 570037869,
+          "photo": {
+            "id": 570037869,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570037869/square.jpg",
+            "attribution": "(c) fallofgranada, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0550833333,
+          36.9495366667
+        ]
+      },
+      "place_guess": "W Cliff Dr, Santa Cruz, CA, US"
     },
     {
       "id": 312926263,
@@ -1349,78 +1383,6 @@
         ]
       },
       "place_guess": "Ilwaco, WA, US"
-    },
-    {
-      "id": 308936624,
-      "time_observed_at": "2025-08-23T09:38:55-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 517780505,
-          "position": 0,
-          "uuid": "360bf0ec-0183-4ec7-ade2-d7b09a84f143",
-          "photo_id": 557425668,
-          "photo": {
-            "id": 557425668,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425668/square.jpg",
-            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517780518,
-          "position": 1,
-          "uuid": "3bd63485-3bbc-4e42-9218-63c0d2e19f15",
-          "photo_id": 557425677,
-          "photo": {
-            "id": 557425677,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 947,
-              "height": 824
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425677/square.jpg",
-            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 517781331,
-          "position": 2,
-          "uuid": "7f18348c-36c0-4fb9-a7b4-bce56f144cf8",
-          "photo_id": 557426685,
-          "photo": {
-            "id": 557426685,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557426685/square.jpg",
-            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.2642666667,
-          34.25013
-        ]
-      },
-      "place_guess": "Ventura Marina & Landing, Ventura, CA, US"
     }
   ]
 }
