@@ -15,13 +15,13 @@
           "photo_id": 573806961,
           "photo": {
             "id": 573806961,
-            "license_code": "cc-by-nc",
+            "license_code": "cc-by",
             "original_dimensions": {
               "width": 1152,
               "height": 2048
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573806961/square.jpg",
-            "attribution": "(c) Augs, some rights reserved (CC BY-NC)",
+            "attribution": "(c) Augs, some rights reserved (CC BY)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -34,13 +34,13 @@
           "photo_id": 573806958,
           "photo": {
             "id": 573806958,
-            "license_code": "cc-by-nc",
+            "license_code": "cc-by",
             "original_dimensions": {
               "width": 1152,
               "height": 2048
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573806958/square.jpg",
-            "attribution": "(c) Augs, some rights reserved (CC BY-NC)",
+            "attribution": "(c) Augs, some rights reserved (CC BY)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -53,13 +53,13 @@
           "photo_id": 573806970,
           "photo": {
             "id": 573806970,
-            "license_code": "cc-by-nc",
+            "license_code": "cc-by",
             "original_dimensions": {
               "width": 1536,
               "height": 2048
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573806970/square.jpg",
-            "attribution": "(c) Augs, some rights reserved (CC BY-NC)",
+            "attribution": "(c) Augs, some rights reserved (CC BY)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
@@ -72,13 +72,13 @@
           "photo_id": 573806971,
           "photo": {
             "id": 573806971,
-            "license_code": "cc-by-nc",
+            "license_code": "cc-by",
             "original_dimensions": {
               "width": 1536,
               "height": 2048
             },
             "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573806971/square.jpg",
-            "attribution": "(c) Augs, some rights reserved (CC BY-NC)",
+            "attribution": "(c) Augs, some rights reserved (CC BY)",
             "flags": [],
             "moderator_actions": [],
             "hidden": false
