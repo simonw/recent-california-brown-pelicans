@@ -1,8 +1,42 @@
 {
-  "total_results": 899,
+  "total_results": 900,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 318706880,
+      "time_observed_at": "2025-10-04T12:03:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 534920586,
+          "position": 0,
+          "uuid": "647e0a6e-7a29-4f31-af83-cd31b3ace0d9",
+          "photo_id": 576034343,
+          "photo": {
+            "id": 576034343,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576034343/square.jpg",
+            "attribution": "(c) Daniel Gawlikowski, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2810871924,
+          37.8709951709
+        ]
+      },
+      "place_guess": "Central Berkeley, Berkeley, CA, USA"
+    },
     {
       "id": 318558983,
       "time_observed_at": "2025-10-02T12:56:41-07:00",
@@ -1387,97 +1421,6 @@
         ]
       },
       "place_guess": "Hammond, Warrenton, OR, USA"
-    },
-    {
-      "id": 310627960,
-      "time_observed_at": "2025-08-31T10:48:09-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 520735780,
-          "position": 0,
-          "uuid": "eda6be03-ee22-4a95-a391-2df76ce3b869",
-          "photo_id": 560641373,
-          "photo": {
-            "id": 560641373,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1938
-            },
-            "url": "https://static.inaturalist.org/photos/560641373/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 520735807,
-          "position": 1,
-          "uuid": "e0c6e726-8690-4a9e-bf4d-9747ba3414b3",
-          "photo_id": 560641423,
-          "photo": {
-            "id": 560641423,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560641423/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 520735835,
-          "position": 2,
-          "uuid": "c740e6e4-b5c2-4092-972a-c6027898ce14",
-          "photo_id": 560641471,
-          "photo": {
-            "id": 560641471,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560641471/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 520735874,
-          "position": 3,
-          "uuid": "ea6d16e6-9610-4804-9235-3d1d4e621293",
-          "photo_id": 560641523,
-          "photo": {
-            "id": 560641523,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/560641523/square.jpg",
-            "attribution": "(c) dgrimmphd, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2451621,
-          32.6743057997
-        ]
-      },
-      "place_guess": "San Diego, CA 92106, USA"
     }
   ]
 }
