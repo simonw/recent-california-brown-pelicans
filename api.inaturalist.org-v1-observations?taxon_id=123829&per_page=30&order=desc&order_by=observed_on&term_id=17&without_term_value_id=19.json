@@ -1,5 +1,5 @@
 {
-  "total_results": 951,
+  "total_results": 952,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -665,6 +665,40 @@
         ]
       },
       "place_guess": "Berkeley, CA, USA"
+    },
+    {
+      "id": 321697743,
+      "time_observed_at": "2025-10-18T14:00:16-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 540244386,
+          "position": 0,
+          "uuid": "2afc5527-e603-4d97-b807-c9a76786645d",
+          "photo_id": 581821640,
+          "photo": {
+            "id": 581821640,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1153
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581821640/square.jpg",
+            "attribution": "(c) ezepedae, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.8986349702,
+          33.60289972
+        ]
+      },
+      "place_guess": "Newport Beach, CA, USA"
     },
     {
       "id": 321548722,
@@ -1406,97 +1440,6 @@
         ]
       },
       "place_guess": "Arrowhead Marsh, Oakland, CA 94621, USA"
-    },
-    {
-      "id": 318626669,
-      "time_observed_at": "2025-10-03T12:14:18-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 534781917,
-          "position": 0,
-          "uuid": "df9e8f3f-8e4b-45d3-95a1-65076ae7ec32",
-          "photo_id": 575884386,
-          "photo": {
-            "id": 575884386,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1490
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575884386/square.jpg",
-            "attribution": "(c) Larry Teeter, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 534781963,
-          "position": 1,
-          "uuid": "3b65f8ff-2b71-49ea-931c-f87f90f226c2",
-          "photo_id": 575884427,
-          "photo": {
-            "id": 575884427,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575884427/square.jpg",
-            "attribution": "(c) Larry Teeter, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 534782007,
-          "position": 2,
-          "uuid": "4d62c0f9-2019-4eeb-a23a-bd93e3ba8280",
-          "photo_id": 575884466,
-          "photo": {
-            "id": 575884466,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575884466/square.jpg",
-            "attribution": "(c) Larry Teeter, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 534782070,
-          "position": 3,
-          "uuid": "7c59373b-db65-4a6e-9b17-731763c9139e",
-          "photo_id": 575884508,
-          "photo": {
-            "id": 575884508,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575884508/square.jpg",
-            "attribution": "(c) Larry Teeter, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.96347,
-          45.28133
-        ]
-      },
-      "place_guess": "Cloverdale, OR, US"
     }
   ]
 }
