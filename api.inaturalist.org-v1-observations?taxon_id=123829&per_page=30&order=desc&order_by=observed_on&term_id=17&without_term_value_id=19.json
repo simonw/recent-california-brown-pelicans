@@ -1,8 +1,42 @@
 {
-  "total_results": 954,
+  "total_results": 955,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 325711538,
+      "time_observed_at": "2025-11-08T17:07:22-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 547508372,
+          "position": 0,
+          "uuid": "414917ae-9228-4029-9ba7-be043513d766",
+          "photo_id": 589769780,
+          "photo": {
+            "id": 589769780,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589769780/square.jpg",
+            "attribution": "(c) Zac Cota, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.41027,
+          37.8096616667
+        ]
+      },
+      "place_guess": "Pier 39, San Francisco, CA, US"
+    },
     {
       "id": 323372194,
       "time_observed_at": "2025-10-26T17:35:02-07:00",
@@ -1425,40 +1459,6 @@
         ]
       },
       "place_guess": "Pomponio State Beach, California, USA"
-    },
-    {
-      "id": 318706880,
-      "time_observed_at": "2025-10-04T12:03:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 534920586,
-          "position": 0,
-          "uuid": "647e0a6e-7a29-4f31-af83-cd31b3ace0d9",
-          "photo_id": 576034343,
-          "photo": {
-            "id": 576034343,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576034343/square.jpg",
-            "attribution": "(c) Daniel Gawlikowski, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.2810871924,
-          37.8709951709
-        ]
-      },
-      "place_guess": "Central Berkeley, Berkeley, CA, USA"
     }
   ]
 }
