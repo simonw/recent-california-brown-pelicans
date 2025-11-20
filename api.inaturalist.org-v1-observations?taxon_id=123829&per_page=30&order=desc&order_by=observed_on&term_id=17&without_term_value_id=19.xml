@@ -26,10 +26,12 @@
       </h1>
       <p>
         We're currently down
-        for unscheduled maintenance.
+        for scheduled maintenance.
       </p>
       <p>
-        iNat will be back on its feet/wings/fins/tentacles/pseudopodia as soon as possible.
+        iNat will be back on its feet/wings/fins/tentacles/pseudopodia
+        <span class="datetime">
+          by <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=iNaturalist+Planned+Downtime&amp;iso=20251119T19&amp;p1=224&amp;ah=4">11:00PM PST</a></span>.
       </p>
     </center>
   </body>
