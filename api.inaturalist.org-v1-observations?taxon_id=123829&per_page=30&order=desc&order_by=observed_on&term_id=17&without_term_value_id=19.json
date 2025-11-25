@@ -1,5 +1,5 @@
 {
-  "total_results": 970,
+  "total_results": 971,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -90,6 +90,40 @@
         "coordinates": [
           -122.4109848047,
           37.8119642007
+        ]
+      },
+      "place_guess": "San Francisco Bay, San Francisco, CA, US"
+    },
+    {
+      "id": 328099125,
+      "time_observed_at": "2025-11-23T15:59:29-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 551793156,
+          "position": 0,
+          "uuid": "d3c3c169-0630-443a-bdd1-13fe28ec61c1",
+          "photo_id": 594471647,
+          "photo": {
+            "id": 594471647,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/594471647/square.jpg",
+            "attribution": "(c) coatesmatthew, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4109669263,
+          37.8116851092
         ]
       },
       "place_guess": "San Francisco Bay, San Francisco, CA, US"
@@ -1463,40 +1497,6 @@
         ]
       },
       "place_guess": "Los Angeles, CA, USA"
-    },
-    {
-      "id": 324759456,
-      "time_observed_at": "2025-10-15T10:44:28-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 545779003,
-          "position": 0,
-          "uuid": "5dff5940-082f-4b49-9b4e-42bcb504f259",
-          "photo_id": 587870929,
-          "photo": {
-            "id": 587870929,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1757
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587870929/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.818695,
-          36.8685133333
-        ]
-      },
-      "place_guess": "W Beach Rd, Watsonville, CA, US"
     }
   ]
 }
