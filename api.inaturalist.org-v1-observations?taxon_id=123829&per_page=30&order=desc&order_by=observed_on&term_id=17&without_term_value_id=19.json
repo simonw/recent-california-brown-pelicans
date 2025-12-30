@@ -1,5 +1,5 @@
 {
-  "total_results": 1007,
+  "total_results": 1008,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -369,6 +369,40 @@
         ]
       },
       "place_guess": "Bolsa Chica Ecological Reserve, Huntington Beach, CA, US"
+    },
+    {
+      "id": 330292760,
+      "time_observed_at": "2025-12-10T11:45:11-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 555787592,
+          "position": 0,
+          "uuid": "532eeb43-60a7-4976-a33a-bcdf1e250964",
+          "photo_id": 598898281,
+          "photo": {
+            "id": 598898281,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://static.inaturalist.org/photos/598898281/square.jpg",
+            "attribution": "(c) Michaela, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.0243695,
+          36.9610633333
+        ]
+      },
+      "place_guess": "Cowell’s Beach, Santa Cruz, CA, US"
     },
     {
       "id": 330179660,
@@ -1460,40 +1494,6 @@
         "coordinates": [
           -117.3603666667,
           32.8066066667
-        ]
-      },
-      "place_guess": null
-    },
-    {
-      "id": 326288465,
-      "time_observed_at": "2025-11-11T16:12:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 548557994,
-          "position": 0,
-          "uuid": "bd1f17e1-5d5e-4ca6-b8be-edd63d13b2a5",
-          "photo_id": 590914470,
-          "photo": {
-            "id": 590914470,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1367
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590914470/square.jpg",
-            "attribution": "(c) Michael Phillips, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.4700316667,
-          32.85434
         ]
       },
       "place_guess": null
