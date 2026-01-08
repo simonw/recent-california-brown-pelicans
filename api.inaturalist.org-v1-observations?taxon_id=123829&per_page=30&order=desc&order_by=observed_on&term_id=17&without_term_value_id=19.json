@@ -1,8 +1,42 @@
 {
-  "total_results": 875,
+  "total_results": 876,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 333935386,
+      "time_observed_at": "2026-01-01T16:20:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 562472143,
+          "position": 0,
+          "uuid": "634bdbcf-0314-4d06-aa1d-88fda00e1383",
+          "photo_id": 606320728,
+          "photo": {
+            "id": 606320728,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606320728/square.jpg",
+            "attribution": "(c) Brian Griffith, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.9339416332,
+          36.6379380359
+        ]
+      },
+      "place_guess": "Pacific Grove, CA, USA"
+    },
     {
       "id": 333060376,
       "time_observed_at": "2026-01-01T13:47:03-08:00",
@@ -1463,59 +1497,6 @@
         ]
       },
       "place_guess": "Monterey County, CA, USA"
-    },
-    {
-      "id": 322658614,
-      "time_observed_at": "2025-10-22T11:52:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 541995038,
-          "position": 0,
-          "uuid": "d81e4e0b-5572-4fa3-b148-1dd4316597f4",
-          "photo_id": 583738119,
-          "photo": {
-            "id": 583738119,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1542,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583738119/square.jpg",
-            "attribution": "(c) Martin Kalfatovic, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 541995040,
-          "position": 1,
-          "uuid": "4c2804ba-670d-45d3-bb63-0bde4271f428",
-          "photo_id": 583738132,
-          "photo": {
-            "id": 583738132,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1542,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583738132/square.jpg",
-            "attribution": "(c) Martin Kalfatovic, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4609416667,
-          37.8052416667
-        ]
-      },
-      "place_guess": "San Francisco, CA, USA"
     }
   ]
 }
