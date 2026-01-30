@@ -1,8 +1,42 @@
 {
-  "total_results": 896,
+  "total_results": 898,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 336629990,
+      "time_observed_at": "2026-01-28T15:22:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 567403832,
+          "position": 0,
+          "uuid": "39676f8b-4df5-4c8e-a628-e5db74d9c290",
+          "photo_id": 611770247,
+          "photo": {
+            "id": 611770247,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1300,
+              "height": 1331
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611770247/square.jpg",
+            "attribution": "(c) Patricia Teague, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0069,
+          46.2387166667
+        ]
+      },
+      "place_guess": "FSSP Columbia River Beach"
+    },
     {
       "id": 336197516,
       "time_observed_at": "2026-01-25T17:07:31-08:00",
@@ -524,6 +558,40 @@
         ]
       },
       "place_guess": "Playa Olas Altas, Emiliano Zapata, Puerto Vallarta, Jal., México"
+    },
+    {
+      "id": 332835866,
+      "time_observed_at": "2025-12-30T16:57:47-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 560496799,
+          "position": 0,
+          "uuid": "718ac81f-ca61-482b-8b71-d17b5f524f34",
+          "photo_id": 604125391,
+          "photo": {
+            "id": 604125391,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1656,
+              "height": 1242
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604125391/square.jpg",
+            "attribution": "(c) Justin M. Wood, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.5097716667,
+          33.9168333333
+        ]
+      },
+      "place_guess": "Santa Monica Bay, US"
     },
     {
       "id": 332356670,
@@ -1372,93 +1440,6 @@
         ]
       },
       "place_guess": "San Francisco Bay, San Francisco, CA, US"
-    },
-    {
-      "id": 328099063,
-      "time_observed_at": "2025-11-23T15:57:22-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 551793025,
-          "position": 0,
-          "uuid": "a0f83f0d-9ba5-444c-bd43-a5e08bfbd95e",
-          "photo_id": 594471549,
-          "photo": {
-            "id": 594471549,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/594471549/square.jpg",
-            "attribution": "(c) coatesmatthew, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4111229721,
-          37.8114772823
-        ]
-      },
-      "place_guess": "San Francisco Bay, San Francisco, CA, US"
-    },
-    {
-      "id": 327805060,
-      "time_observed_at": "2025-11-22T16:37:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 551288746,
-          "position": 0,
-          "uuid": "27cc72b9-18fc-4d17-888e-34ed4fa0e393",
-          "photo_id": 593921219,
-          "photo": {
-            "id": 593921219,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593921219/square.jpg",
-            "attribution": "(c) Eric Johnson, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 551288747,
-          "position": 1,
-          "uuid": "6af0bc17-d4d1-4e67-affc-047b6dc61618",
-          "photo_id": 593921207,
-          "photo": {
-            "id": 593921207,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593921207/square.jpg",
-            "attribution": "(c) Eric Johnson, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.0584757582,
-          33.7086238462
-        ]
-      },
-      "place_guess": "Outer Bolsa Bay, Bolsa Chica Ecological Reserve, Orange County, CA, USA"
     }
   ]
 }
