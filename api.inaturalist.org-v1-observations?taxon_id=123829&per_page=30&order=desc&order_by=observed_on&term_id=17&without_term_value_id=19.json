@@ -1,8 +1,42 @@
 {
-  "total_results": 906,
+  "total_results": 907,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 337709755,
+      "time_observed_at": "2026-02-07T11:13:56-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 569346673,
+          "position": 0,
+          "uuid": "0ac41a9f-f60a-43c0-809b-79acc77f23af",
+          "photo_id": 613975309,
+          "photo": {
+            "id": 613975309,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1152
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613975309/square.jpg",
+            "attribution": "(c) b1rb, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.2480545442,
+          37.7286779924
+        ]
+      },
+      "place_guess": "Harbor Bay Pkwy, Alameda, CA, US"
+    },
     {
       "id": 336886047,
       "time_observed_at": "2026-01-31T10:36:02-08:00",
@@ -1406,40 +1440,6 @@
         ]
       },
       "place_guess": "Santa Monica Bay, Redondo Beach, CA, US"
-    },
-    {
-      "id": 329776588,
-      "time_observed_at": "2025-12-06T10:47:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 554845197,
-          "position": 0,
-          "uuid": "7d552e20-3e89-4d28-8f35-14cca50cdb50",
-          "photo_id": 597837202,
-          "photo": {
-            "id": 597837202,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/597837202/square.jpg",
-            "attribution": "(c) Nicholas Veal, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4538367005,
-          37.8160241119
-        ]
-      },
-      "place_guess": "San Francisco, CA, USA"
     }
   ]
 }
