@@ -1,5 +1,5 @@
 {
-  "total_results": 919,
+  "total_results": 920,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -1033,6 +1033,59 @@
       "place_guess": "IGY marina store, Cabo San Lucas, North Pacific Region, MX"
     },
     {
+      "id": 337875705,
+      "time_observed_at": "2025-12-23T11:57:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 569647570,
+          "position": 0,
+          "uuid": "0fdfbec7-ad98-4f7c-ab14-984bd68dd12a",
+          "photo_id": 614315573,
+          "photo": {
+            "id": 614315573,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1511
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614315573/square.jpg",
+            "attribution": "(c) beekebirder23, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 569647571,
+          "position": 1,
+          "uuid": "68b8a634-448f-4a66-b8bf-f4661b497a12",
+          "photo_id": 614315570,
+          "photo": {
+            "id": 614315570,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1444
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614315570/square.jpg",
+            "attribution": "(c) beekebirder23, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.6812472963,
+          33.4617055704
+        ]
+      },
+      "place_guess": "Dana Point, CA, USA"
+    },
+    {
       "id": 335011833,
       "time_observed_at": "2025-12-23T09:17:00-06:00",
       "observed_time_zone": "America/Mexico_City",
@@ -1349,40 +1402,6 @@
         ]
       },
       "place_guess": "San Francisco Bay, San Francisco, CA, US"
-    },
-    {
-      "id": 330493751,
-      "time_observed_at": "2025-12-10T14:26:55-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 556152333,
-          "position": 0,
-          "uuid": "d8d978fe-2685-4c53-a942-661f959754fb",
-          "photo_id": 599310249,
-          "photo": {
-            "id": 599310249,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/599310249/square.jpg",
-            "attribution": "(c) piffrosa, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.0416798592,
-          33.697337608
-        ]
-      },
-      "place_guess": "Bolsa Chica Ecological Reserve, Huntington Beach, CA, US"
     }
   ]
 }
