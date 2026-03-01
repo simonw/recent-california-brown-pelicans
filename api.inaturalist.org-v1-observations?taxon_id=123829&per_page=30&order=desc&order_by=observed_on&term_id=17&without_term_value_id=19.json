@@ -1,5 +1,5 @@
 {
-  "total_results": 924,
+  "total_results": 926,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -108,6 +108,74 @@
         ]
       },
       "place_guess": "Dana Point Harbor, Dana Point, CA, US"
+    },
+    {
+      "id": 338763818,
+      "time_observed_at": "2026-02-15T12:15:24-07:00",
+      "observed_time_zone": "America/Mazatlan",
+      "observation_photos": [
+        {
+          "id": 571243199,
+          "position": 0,
+          "uuid": "6d764400-8ec1-4c39-8b95-2022d36eba81",
+          "photo_id": 616125683,
+          "photo": {
+            "id": 616125683,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1152,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616125683/square.jpg",
+            "attribution": "(c) Lorena De la Torre Cortés, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -109.82872,
+          24.0614638333
+        ]
+      },
+      "place_guess": "La Paz, B.C.S., MX"
+    },
+    {
+      "id": 338764323,
+      "time_observed_at": "2026-02-15T12:13:29-07:00",
+      "observed_time_zone": "America/Mazatlan",
+      "observation_photos": [
+        {
+          "id": 571243985,
+          "position": 0,
+          "uuid": "bae10b5b-3c82-4e45-a036-45509017557d",
+          "photo_id": 616126553,
+          "photo": {
+            "id": 616126553,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1152,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616126553/square.jpg",
+            "attribution": "(c) Lorena De la Torre Cortés, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -109.828955,
+          24.0615055
+        ]
+      },
+      "place_guess": "La Paz, B.C.S., MX"
     },
     {
       "id": 338864514,
@@ -1315,131 +1383,6 @@
         ]
       },
       "place_guess": "IGY marina store, Cabo San Lucas, North Pacific Region, MX"
-    },
-    {
-      "id": 337875705,
-      "time_observed_at": "2025-12-23T11:57:00-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 569647570,
-          "position": 0,
-          "uuid": "0fdfbec7-ad98-4f7c-ab14-984bd68dd12a",
-          "photo_id": 614315573,
-          "photo": {
-            "id": 614315573,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1511
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614315573/square.jpg",
-            "attribution": "(c) beekebirder23, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 569647571,
-          "position": 1,
-          "uuid": "68b8a634-448f-4a66-b8bf-f4661b497a12",
-          "photo_id": 614315570,
-          "photo": {
-            "id": 614315570,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1444
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614315570/square.jpg",
-            "attribution": "(c) beekebirder23, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.6812472963,
-          33.4617055704
-        ]
-      },
-      "place_guess": "Dana Point, CA, USA"
-    },
-    {
-      "id": 335011833,
-      "time_observed_at": "2025-12-23T09:17:00-06:00",
-      "observed_time_zone": "America/Mexico_City",
-      "observation_photos": [
-        {
-          "id": 564452680,
-          "position": 0,
-          "uuid": "ed84b687-bdc9-4c1c-b0de-f33fda8f3f2d",
-          "photo_id": 608510908,
-          "photo": {
-            "id": 608510908,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608510908/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 564452776,
-          "position": 1,
-          "uuid": "3b4cb887-d3ff-4914-a65d-465b29f4f7d3",
-          "photo_id": 608511977,
-          "photo": {
-            "id": 608511977,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608511977/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 564452884,
-          "position": 2,
-          "uuid": "22f29eea-c1e3-48dd-afa9-c44a5dfe46c6",
-          "photo_id": 608512149,
-          "photo": {
-            "id": 608512149,
-            "license_code": "cc0",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608512149/square.jpg",
-            "attribution": "no rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -105.2384828341,
-          20.6048395602
-        ]
-      },
-      "place_guess": "Playa Olas Altas, Zona Romántica, Emiliano Zapata, Puerto Vallarta, Jal., México"
     }
   ]
 }
