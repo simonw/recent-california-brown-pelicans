@@ -1,5 +1,5 @@
 {
-  "total_results": 1051,
+  "total_results": 1053,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -127,6 +127,40 @@
         ]
       },
       "place_guess": "San Francisco, CA, US"
+    },
+    {
+      "id": 345561649,
+      "time_observed_at": "2026-03-26T19:02:02-06:00",
+      "observed_time_zone": "America/Mexico_City",
+      "observation_photos": [
+        {
+          "id": 583300236,
+          "position": 0,
+          "uuid": "4fa3af72-66f9-4fe4-9843-e8f5c6d9aa27",
+          "photo_id": 629774133,
+          "photo": {
+            "id": 629774133,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629774133/square.jpg",
+            "attribution": "(c) dabugie, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -105.2376403809,
+          20.6063842773
+        ]
+      },
+      "place_guess": "Puerto Vallarta"
     },
     {
       "id": 344626169,
@@ -1463,40 +1497,6 @@
         ]
       },
       "place_guess": "Plaza bonita, local 18 AB, 23453 Cabo San Lucas, B.C.S., Mexico"
-    },
-    {
-      "id": 336621217,
-      "time_observed_at": "2026-01-29T15:03:37-07:00",
-      "observed_time_zone": "America/Mazatlan",
-      "observation_photos": [
-        {
-          "id": 567388038,
-          "position": 0,
-          "uuid": "b3739605-7bd8-472f-8c0c-062cbf94a637",
-          "photo_id": 611752942,
-          "photo": {
-            "id": 611752942,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/611752942/square.jpg",
-            "attribution": "(c) Olushola Bolonduro, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -109.9152148515,
-          22.8947549082
-        ]
-      },
-      "place_guess": "Juárez, Cabo San Lucas, B.C.S., Mexico"
     }
   ]
 }
