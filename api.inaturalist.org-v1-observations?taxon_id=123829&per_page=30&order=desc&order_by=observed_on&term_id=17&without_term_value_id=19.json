@@ -1,8 +1,42 @@
 {
-  "total_results": 1075,
+  "total_results": 1078,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 346954810,
+      "time_observed_at": "2026-04-02T18:13:00-07:00",
+      "observed_time_zone": "America/Tijuana",
+      "observation_photos": [
+        {
+          "id": 585750420,
+          "position": 0,
+          "uuid": "4eef671a-266f-443e-8b0d-fa63c84b314c",
+          "photo_id": 632530028,
+          "photo": {
+            "id": 632530028,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/632530028/square.jpg",
+            "attribution": "(c) Miguel Angel Rodriguez Salazar (MARS), all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.0617553,
+          32.3661011
+        ]
+      },
+      "place_guess": "Playas de Rosarito, B.C., México"
+    },
     {
       "id": 346801883,
       "time_observed_at": "2026-04-02T08:51:02-07:00",
@@ -384,6 +418,40 @@
         ]
       },
       "place_guess": "Puerto Vallarta"
+    },
+    {
+      "id": 346950004,
+      "time_observed_at": "2026-03-25T09:46:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 585741832,
+          "position": 0,
+          "uuid": "f01ac5a6-e904-41eb-ae31-cad8ae1be40e",
+          "photo_id": 632519177,
+          "photo": {
+            "id": 632519177,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632519177/square.jpg",
+            "attribution": "(c) Anna Krylova, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.957521059,
+          36.6522863245
+        ]
+      },
+      "place_guess": "Monterey County, CA, USA"
     },
     {
       "id": 346531334,
@@ -1258,74 +1326,6 @@
         ]
       },
       "place_guess": "University of California, Santa Barbara, Goleta, CA, US"
-    },
-    {
-      "id": 340773964,
-      "time_observed_at": "2026-02-27T18:30:54-07:00",
-      "observed_time_zone": "America/Hermosillo",
-      "observation_photos": [
-        {
-          "id": 574841717,
-          "position": 0,
-          "uuid": "a93e13ed-54cf-4cb4-b7e1-1d776783073a",
-          "photo_id": 620203768,
-          "photo": {
-            "id": 620203768,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/620203768/square.jpg",
-            "attribution": "(c) Hector Daniel Pinto Santana, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -113.6334843415,
-          31.3436800255
-        ]
-      },
-      "place_guess": "Bahía la Choya, MX"
-    },
-    {
-      "id": 340366120,
-      "time_observed_at": "2026-02-26T12:58:28-08:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 574112482,
-          "position": 0,
-          "uuid": "77af1550-685e-4d45-945e-ebd1923bb922",
-          "photo_id": 619378867,
-          "photo": {
-            "id": 619378867,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619378867/square.jpg",
-            "attribution": "(c) foolonthehill, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.3063666667,
-          33.3074033333
-        ]
-      },
-      "place_guess": "Gulf of Santa Catalina, CA, US"
     }
   ]
 }
