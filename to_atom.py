@@ -88,11 +88,10 @@ def json_to_atom(
             html_content += "<p>Photos:</p>"
             for photo_data in item.get("observation_photos"):
                 if photo_data.get("photo") and photo_data.get("photo").get("url"):
-                    # Replace square.jpeg with large.jpeg in the URL
                     photo_url = (
                         photo_data.get("photo")
                         .get("url")
-                        .replace("square.jpeg", "large.jpeg")
+                        .replace("square.jpg", "large.jpg")
                     )
                     photo_attribution = photo_data.get("photo").get("attribution", "")
                     html_content += (
@@ -103,14 +102,13 @@ def json_to_atom(
         html_content += "</div>"
         content.text = html_content
 
-        # Add link to full-sized photos if available, using large.jpeg instead of square.jpeg
         if item.get("observation_photos"):
             for photo_data in item.get("observation_photos"):
                 if photo_data.get("photo") and photo_data.get("photo").get("url"):
                     photo_url = (
                         photo_data.get("photo")
                         .get("url")
-                        .replace("square.jpeg", "large.jpeg")
+                        .replace("square.jpg", "large.jpg")
                     )
                     # Create a link with the appropriate relationship
                     link = ET.SubElement(entry, "link")
