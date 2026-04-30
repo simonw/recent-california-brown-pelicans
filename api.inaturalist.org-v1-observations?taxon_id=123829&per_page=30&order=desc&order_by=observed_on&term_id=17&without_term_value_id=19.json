@@ -1,5 +1,5 @@
 {
-  "total_results": 1121,
+  "total_results": 1122,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -225,6 +225,40 @@
         ]
       },
       "place_guess": "Sonoma, California, United States"
+    },
+    {
+      "id": 356308642,
+      "time_observed_at": "2026-04-26T10:01:00-07:00",
+      "observed_time_zone": "America/Mazatlan",
+      "observation_photos": [
+        {
+          "id": 601017520,
+          "position": 0,
+          "uuid": "cc859c32-e22e-472f-9106-4b9da5d47472",
+          "photo_id": 649768803,
+          "photo": {
+            "id": 649768803,
+            "license_code": "cc-by-nc-sa",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649768803/square.jpg",
+            "attribution": "(c) María Rodríguez-Salinas, some rights reserved (CC BY-NC-SA)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -109.8009366667,
+          24.136515
+        ]
+      },
+      "place_guess": "La Paz, Baja California Sur, Mexico"
     },
     {
       "id": 356218815,
@@ -1216,40 +1250,6 @@
         ]
       },
       "place_guess": "Point Vicente Interpretive Center, Rancho Palos Verdes, CA, US"
-    },
-    {
-      "id": 347854498,
-      "time_observed_at": "2026-04-06T10:06:15-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 587336790,
-          "position": 0,
-          "uuid": "8c480af1-d2bb-4043-abe2-e4c85630a25c",
-          "photo_id": 634315288,
-          "photo": {
-            "id": 634315288,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634315288/square.jpg",
-            "attribution": "(c) mojavemama, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.278725,
-          32.8471633333
-        ]
-      },
-      "place_guess": "Coast Blvd, San Diego, CA, US"
     }
   ]
 }
