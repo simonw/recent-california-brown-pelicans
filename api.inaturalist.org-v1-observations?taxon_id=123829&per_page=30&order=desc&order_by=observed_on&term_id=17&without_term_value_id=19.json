@@ -1,5 +1,5 @@
 {
-  "total_results": 1125,
+  "total_results": 1126,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -395,6 +395,59 @@
         ]
       },
       "place_guess": "Loreto, B.C.S., México"
+    },
+    {
+      "id": 353224218,
+      "time_observed_at": "2026-04-24T17:40:36-06:00",
+      "observed_time_zone": "America/Mexico_City",
+      "observation_photos": [
+        {
+          "id": 596371238,
+          "position": 0,
+          "uuid": "8e164185-f99c-4fdc-9300-24ce3951b81f",
+          "photo_id": 644543728,
+          "photo": {
+            "id": 644543728,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644543728/square.jpg",
+            "attribution": "(c) karla ruiz, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 596371306,
+          "position": 1,
+          "uuid": "77e3655c-ea83-4201-aae3-456c004047b6",
+          "photo_id": 644543820,
+          "photo": {
+            "id": 644543820,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644543820/square.jpg",
+            "attribution": "(c) karla ruiz, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -105.2361966667,
+          20.6057133333
+        ]
+      },
+      "place_guess": "Puerto Vallarta, MX-JA, MX"
     },
     {
       "id": 353303398,
@@ -1159,40 +1212,6 @@
         ]
       },
       "place_guess": "Fishermans Wharf, Monterey, CA, US"
-    },
-    {
-      "id": 347907248,
-      "time_observed_at": "2026-04-06T12:58:50-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 587429622,
-          "position": 0,
-          "uuid": "ca5641b3-7c02-41ce-849a-694bfd4b8e76",
-          "photo_id": 634419821,
-          "photo": {
-            "id": 634419821,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634419821/square.jpg",
-            "attribution": "(c) maryve, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.307279937,
-          33.2514369196
-        ]
-      },
-      "place_guess": "Little Libby Lake, Oceanside, CA, US"
     }
   ]
 }
