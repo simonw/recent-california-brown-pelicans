@@ -1,5 +1,5 @@
 {
-  "total_results": 1129,
+  "total_results": 1131,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -248,6 +248,40 @@
         ]
       },
       "place_guess": "Sonoma County, CA, USA"
+    },
+    {
+      "id": 356413106,
+      "time_observed_at": "2026-04-26T17:31:44-07:00",
+      "observed_time_zone": "America/Tijuana",
+      "observation_photos": [
+        {
+          "id": 601194484,
+          "position": 0,
+          "uuid": "7dc36533-550f-4365-9c04-5c0daa7937c7",
+          "photo_id": 649969751,
+          "photo": {
+            "id": 649969751,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1643
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649969751/square.jpg",
+            "attribution": "(c) Erik Meling, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -116.345301571,
+          30.9831465378
+        ]
+      },
+      "place_guess": "Océano Pacífico Norte, MX"
     },
     {
       "id": 354561416,
@@ -592,6 +626,40 @@
         ]
       },
       "place_guess": "Puerto Vallarta, MX-JA, MX"
+    },
+    {
+      "id": 353134349,
+      "time_observed_at": "2026-04-24T15:29:17-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 596229995,
+          "position": 0,
+          "uuid": "c8fe902b-f819-4e73-b72e-217da21f6ecb",
+          "photo_id": 644384255,
+          "photo": {
+            "id": 644384255,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://static.inaturalist.org/photos/644384255/square.jpg",
+            "attribution": "(c) Melissa, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2477758941,
+          32.7557452361
+        ]
+      },
+      "place_guess": "San Diego, CA, US"
     },
     {
       "id": 353055242,
@@ -1182,74 +1250,6 @@
         ]
       },
       "place_guess": "Moss Landing, CA, US"
-    },
-    {
-      "id": 350282085,
-      "time_observed_at": "2026-04-15T10:02:02-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 591563836,
-          "position": 0,
-          "uuid": "e229df91-b3d1-4c55-b55b-44f97ddc2743",
-          "photo_id": 639095106,
-          "photo": {
-            "id": 639095106,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/639095106/square.jpg",
-            "attribution": "(c) Gavin Skeen, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.687705,
-          34.41242
-        ]
-      },
-      "place_guess": "E Cabrillo Blvd, Santa Barbara, CA, US"
-    },
-    {
-      "id": 355668467,
-      "time_observed_at": "2026-04-10T13:42:29-07:00",
-      "observed_time_zone": "America/Mazatlan",
-      "observation_photos": [
-        {
-          "id": 600004767,
-          "position": 0,
-          "uuid": "5dcc4a6d-5d75-4db9-b9bc-e3295d4c5b8c",
-          "photo_id": 648614102,
-          "photo": {
-            "id": 648614102,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1537
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648614102/square.jpg",
-            "attribution": "(c) ulisesgracia, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -110.3247444444,
-          24.1560777778
-        ]
-      },
-      "place_guess": "La Paz, Malecon, BCS, Zona Comercial, 23000 La Paz, B.C.S., México"
     }
   ]
 }
