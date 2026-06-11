@@ -1,8 +1,42 @@
 {
-  "total_results": 1183,
+  "total_results": 1189,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 369946642,
+      "time_observed_at": "2026-06-07T19:22:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 624495515,
+          "position": 0,
+          "uuid": "a0e49efa-a56a-47d4-944a-2f8d6d49826f",
+          "photo_id": 675801041,
+          "photo": {
+            "id": 675801041,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/675801041/square.jpg",
+            "attribution": "(c) Desert Daydreamer, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.8938848878,
+          36.609407167
+        ]
+      },
+      "place_guess": "Monterey, CA, USA"
+    },
     {
       "id": 369578391,
       "time_observed_at": "2026-06-06T14:58:43-07:00",
@@ -1270,59 +1304,6 @@
         "coordinates": [
           -123.9560962915,
           45.8518618556
-        ]
-      },
-      "place_guess": "Oregon, US"
-    },
-    {
-      "id": 360462528,
-      "time_observed_at": "2026-05-09T08:11:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 608065114,
-          "position": 0,
-          "uuid": "784510e7-c3a6-4ab7-8b3c-a580ec823f2c",
-          "photo_id": 657726026,
-          "photo": {
-            "id": 657726026,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/657726026/square.jpg",
-            "attribution": "(c) Jesse James White, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 608065116,
-          "position": 1,
-          "uuid": "3eb184fd-b832-4f61-814a-ff716eea287e",
-          "photo_id": 657726091,
-          "photo": {
-            "id": 657726091,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/657726091/square.jpg",
-            "attribution": "(c) Jesse James White, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.9716496187,
-          45.8979131676
         ]
       },
       "place_guess": "Oregon, US"
