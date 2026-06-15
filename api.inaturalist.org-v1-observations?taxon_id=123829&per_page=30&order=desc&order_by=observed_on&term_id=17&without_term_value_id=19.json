@@ -1,8 +1,42 @@
 {
-  "total_results": 1205,
+  "total_results": 1206,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 372042344,
+      "time_observed_at": "2026-06-14T20:53:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 628134189,
+          "position": 0,
+          "uuid": "a34c5ce1-bdd8-419a-b3cc-f2f638beead9",
+          "photo_id": 679800006,
+          "photo": {
+            "id": 679800006,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679800006/square.jpg",
+            "attribution": "(c) Sarah Reid, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.1303623978,
+          38.4514728792
+        ]
+      },
+      "place_guess": "Sonoma County, CA, USA"
+    },
     {
       "id": 371876864,
       "time_observed_at": "2026-06-14T12:41:39-07:00",
@@ -1501,40 +1535,6 @@
         ]
       },
       "place_guess": "Sonoma County, CA, USA"
-    },
-    {
-      "id": 360707710,
-      "time_observed_at": "2026-05-10T15:06:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 608477629,
-          "position": 0,
-          "uuid": "0d682ca6-bc09-4431-b245-fac98b333e23",
-          "photo_id": 658208115,
-          "photo": {
-            "id": 658208115,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1796,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658208115/square.jpg",
-            "attribution": "(c) Di, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.0240324527,
-          38.4736463861
-        ]
-      },
-      "place_guess": "Sonoma County, US-CA, US"
     }
   ]
 }
