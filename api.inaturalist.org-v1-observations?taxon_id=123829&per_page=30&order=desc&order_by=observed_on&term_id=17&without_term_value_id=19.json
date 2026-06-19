@@ -1,8 +1,42 @@
 {
-  "total_results": 1213,
+  "total_results": 1214,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 373137568,
+      "time_observed_at": "2026-06-18T10:12:58-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 630049118,
+          "position": 0,
+          "uuid": "5b37497c-dd93-44ee-b97e-0961226eec25",
+          "photo_id": 681900848,
+          "photo": {
+            "id": 681900848,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 1616,
+              "height": 1080
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/681900848/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -120.8687616667,
+          35.3236183333
+        ]
+      },
+      "place_guess": "CA, US"
+    },
     {
       "id": 373000304,
       "time_observed_at": "2026-06-18T09:29:33-07:00",
@@ -1653,40 +1687,6 @@
         ]
       },
       "place_guess": "Madison Avenue Beach Access, Bandon, OR, US"
-    },
-    {
-      "id": 362156101,
-      "time_observed_at": "2026-05-15T18:21:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 610990388,
-          "position": 0,
-          "uuid": "1764a501-1b7f-451d-adb9-d2c08bf9f1fb",
-          "photo_id": 660976306,
-          "photo": {
-            "id": 660976306,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1310
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660976306/square.jpg",
-            "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.3334722222,
-          37.7999861111
-        ]
-      },
-      "place_guess": "Oakland, CA, USA"
     }
   ]
 }
