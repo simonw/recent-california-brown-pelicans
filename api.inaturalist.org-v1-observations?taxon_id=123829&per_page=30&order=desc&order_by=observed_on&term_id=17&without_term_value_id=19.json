@@ -1,5 +1,5 @@
 {
-  "total_results": 1243,
+  "total_results": 1245,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -55,6 +55,40 @@
         ]
       },
       "place_guess": "El Medano Ejidal, Cabo San Lucas, B.C.S., Mexico"
+    },
+    {
+      "id": 378158467,
+      "time_observed_at": "2026-07-02T14:33:00-07:00",
+      "observed_time_zone": "America/Mazatlan",
+      "observation_photos": [
+        {
+          "id": 638865980,
+          "position": 0,
+          "uuid": "bca1774f-9728-4d07-9195-00d5bd4574ce",
+          "photo_id": 691590783,
+          "photo": {
+            "id": 691590783,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://static.inaturalist.org/photos/691590783/square.jpg",
+            "attribution": "(c) Daniel, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -108.4931249344,
+          25.2842015989
+        ]
+      },
+      "place_guess": "Guasave, Sin., México"
     },
     {
       "id": 377528467,
@@ -1501,40 +1535,6 @@
         ]
       },
       "place_guess": "Davenport, CA 95017, USA"
-    },
-    {
-      "id": 369946642,
-      "time_observed_at": "2026-06-07T19:22:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 624495515,
-          "position": 0,
-          "uuid": "a0e49efa-a56a-47d4-944a-2f8d6d49826f",
-          "photo_id": 675801041,
-          "photo": {
-            "id": 675801041,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/675801041/square.jpg",
-            "attribution": "(c) Desert Daydreamer, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.8938848878,
-          36.609407167
-        ]
-      },
-      "place_guess": "Monterey, CA, USA"
     }
   ]
 }
