@@ -1,5 +1,5 @@
 {
-  "total_results": 1295,
+  "total_results": 1296,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -657,6 +657,59 @@
         ]
       },
       "place_guess": "Cabrillo Hwy, Ragged Point, CA, US"
+    },
+    {
+      "id": 388257317,
+      "time_observed_at": "2026-07-27T18:07:37-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 656582208,
+          "position": 0,
+          "uuid": "c9883205-b07f-4b41-a35f-f5c6deaea449",
+          "photo_id": 711064269,
+          "photo": {
+            "id": 711064269,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/711064269/square.jpg",
+            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 656582275,
+          "position": 1,
+          "uuid": "14604079-e959-43fa-82d8-7a3b82502863",
+          "photo_id": 711064308,
+          "photo": {
+            "id": 711064308,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/711064308/square.jpg",
+            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.2578283333,
+          35.6629716667
+        ]
+      },
+      "place_guess": "Piedras Blancas Light Station, Ragged Point, CA, US"
     },
     {
       "id": 386143702,
@@ -1524,116 +1577,6 @@
               "height": 2048
             },
             "url": "https://static.inaturalist.org/photos/710103250/square.jpg",
-            "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -109.8993267864,
-          22.8787227144
-        ]
-      },
-      "place_guess": "México"
-    },
-    {
-      "id": 387768218,
-      "time_observed_at": "2026-07-08T10:26:21-07:00",
-      "observed_time_zone": "America/Mazatlan",
-      "observation_photos": [
-        {
-          "id": 655717685,
-          "position": 0,
-          "uuid": "6521c7ea-5041-4da9-902b-1b8182a64c14",
-          "photo_id": 710102521,
-          "photo": {
-            "id": 710102521,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 951,
-              "height": 944
-            },
-            "url": "https://static.inaturalist.org/photos/710102521/square.jpg",
-            "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 655717716,
-          "position": 1,
-          "uuid": "613f787b-f2e6-43b9-aba6-af58c59a3a43",
-          "photo_id": 710102549,
-          "photo": {
-            "id": 710102549,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 337,
-              "height": 346
-            },
-            "url": "https://static.inaturalist.org/photos/710102549/square.jpg",
-            "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 655717752,
-          "position": 2,
-          "uuid": "a513d78f-dfd3-426a-bcef-6f3a492cd4d2",
-          "photo_id": 710102581,
-          "photo": {
-            "id": 710102581,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/710102581/square.jpg",
-            "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 655718501,
-          "position": 3,
-          "uuid": "c46aed05-b7b0-455d-bcc3-36f3ef8be2c6",
-          "photo_id": 710103525,
-          "photo": {
-            "id": 710103525,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/710103525/square.jpg",
-            "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 655718526,
-          "position": 4,
-          "uuid": "ccceb564-55b8-4471-900c-09928232485c",
-          "photo_id": 710103552,
-          "photo": {
-            "id": 710103552,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://static.inaturalist.org/photos/710103552/square.jpg",
             "attribution": "(c) Raul Baltazar Guzman, all rights reserved",
             "flags": [],
             "moderator_actions": [],
