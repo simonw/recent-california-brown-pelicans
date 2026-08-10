@@ -1,5 +1,5 @@
 {
-  "total_results": 1311,
+  "total_results": 1312,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -36,6 +36,40 @@
         ]
       },
       "place_guess": "Great Meadow Park, San Francisco, CA, US"
+    },
+    {
+      "id": 389912109,
+      "time_observed_at": "2026-08-09T16:15:09-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 659506826,
+          "position": 0,
+          "uuid": "34854531-ff30-4f87-be7f-0a124fad8037",
+          "photo_id": 714274104,
+          "photo": {
+            "id": 714274104,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714274104/square.jpg",
+            "attribution": "(c) Amy Ruegg, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.5294633333,
+          38.7586033333
+        ]
+      },
+      "place_guess": "Gualala Point Regional Park, The Sea Ranch, CA, US"
     },
     {
       "id": 389485941,
@@ -1520,97 +1554,6 @@
         ]
       },
       "place_guess": "Morro Bay, CA, USA"
-    },
-    {
-      "id": 384719307,
-      "time_observed_at": "2026-07-20T14:30:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 650402350,
-          "position": 0,
-          "uuid": "33220ab7-b349-42b7-b514-205727de1adf",
-          "photo_id": 704263197,
-          "photo": {
-            "id": 704263197,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 977,
-              "height": 644
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704263197/square.jpg",
-            "attribution": "(c) Nathan, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 650402351,
-          "position": 1,
-          "uuid": "79879568-2bd1-45ef-8a2b-d78fba56632c",
-          "photo_id": 704263201,
-          "photo": {
-            "id": 704263201,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1919,
-              "height": 499
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704263201/square.jpg",
-            "attribution": "(c) Nathan, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 650402453,
-          "position": 2,
-          "uuid": "1c39dbdf-5b97-4509-a722-30bb8947e401",
-          "photo_id": 704264818,
-          "photo": {
-            "id": 704264818,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1787,
-              "height": 644
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704264818/square.jpg",
-            "attribution": "(c) Nathan, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 650408678,
-          "position": 3,
-          "uuid": "b217f575-07cc-4301-862f-898767706783",
-          "photo_id": 704272052,
-          "photo": {
-            "id": 704272052,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1024,
-              "height": 642
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704272052/square.jpg",
-            "attribution": "(c) Nathan, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.8553880206,
-          36.2792012197
-        ]
-      },
-      "place_guess": "74HV+MR Big Sur, CA, USA"
     }
   ]
 }
