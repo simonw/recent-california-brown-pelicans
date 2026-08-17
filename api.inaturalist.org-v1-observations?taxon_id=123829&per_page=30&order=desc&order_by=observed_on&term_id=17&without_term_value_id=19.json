@@ -1,5 +1,5 @@
 {
-  "total_results": 1327,
+  "total_results": 1328,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -112,6 +112,40 @@
         ]
       },
       "place_guess": "Pomo Bluffs on Todd's Point, Fort Bragg, CA, US"
+    },
+    {
+      "id": 391999131,
+      "time_observed_at": "2026-08-16T13:30:55-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 663197602,
+          "position": 0,
+          "uuid": "85b4bd21-a135-40d5-9cfd-ba58e0abe177",
+          "photo_id": 718335605,
+          "photo": {
+            "id": 718335605,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718335605/square.jpg",
+            "attribution": "(c) Amy Ruegg, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.5299783333,
+          38.7667583333
+        ]
+      },
+      "place_guess": "Gualala Bluff Trail, Gualala, CA, US"
     },
     {
       "id": 391010348,
@@ -1767,97 +1801,6 @@
         ]
       },
       "place_guess": "Point Lobos State Natural Reserve, Carmel, CA, US"
-    },
-    {
-      "id": 386711086,
-      "time_observed_at": "2026-07-30T15:16:26-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 653861200,
-          "position": 0,
-          "uuid": "c6298a8b-c0e7-429a-8583-4bf210489e48",
-          "photo_id": 708061864,
-          "photo": {
-            "id": 708061864,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708061864/square.jpg",
-            "attribution": "(c) Alex, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 653861201,
-          "position": 1,
-          "uuid": "bbf1390c-a709-4468-a66c-bf5678814b87",
-          "photo_id": 708061867,
-          "photo": {
-            "id": 708061867,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708061867/square.jpg",
-            "attribution": "(c) Alex, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 653861199,
-          "position": 2,
-          "uuid": "f449f5d5-fe61-4e32-997c-33d2dcade596",
-          "photo_id": 708061863,
-          "photo": {
-            "id": 708061863,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708061863/square.jpg",
-            "attribution": "(c) Alex, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 653861202,
-          "position": 3,
-          "uuid": "9b722dec-2643-4ced-8d25-f6aa91dd49c8",
-          "photo_id": 708061866,
-          "photo": {
-            "id": 708061866,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708061866/square.jpg",
-            "attribution": "(c) Alex, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2339806109,
-          32.7076493002
-        ]
-      },
-      "place_guess": "Shelter Island Dr, San Diego, CA, US"
     }
   ]
 }
