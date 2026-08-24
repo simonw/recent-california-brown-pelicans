@@ -1,8 +1,42 @@
 {
-  "total_results": 1335,
+  "total_results": 1336,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 394004551,
+      "time_observed_at": "2026-08-21T08:40:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 666760294,
+          "position": 0,
+          "uuid": "32de0100-19db-46e3-bff8-07adff6d27cb",
+          "photo_id": 722259405,
+          "photo": {
+            "id": 722259405,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1324
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722259405/square.jpg",
+            "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4344916667,
+          37.4206444444
+        ]
+      },
+      "place_guess": "San Mateo County, CA, USA"
+    },
     {
       "id": 392721411,
       "time_observed_at": "2026-08-19T10:12:21-07:00",
@@ -1783,59 +1817,6 @@
         "coordinates": [
           -122.4421,
           37.8080216667
-        ]
-      },
-      "place_guess": "Golden Gate Yacht Club, San Francisco, CA, US"
-    },
-    {
-      "id": 387977236,
-      "time_observed_at": "2026-08-02T16:25:50-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 656086609,
-          "position": 0,
-          "uuid": "af78aab1-aa90-483a-bc95-c7ecb94123cd",
-          "photo_id": 710511406,
-          "photo": {
-            "id": 710511406,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710511406/square.jpg",
-            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 656086647,
-          "position": 1,
-          "uuid": "263bb2a2-23da-4f58-8037-c896c7b9348e",
-          "photo_id": 710511450,
-          "photo": {
-            "id": 710511450,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710511450/square.jpg",
-            "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4414583333,
-          37.8080883333
         ]
       },
       "place_guess": "Golden Gate Yacht Club, San Francisco, CA, US"
