@@ -1,5 +1,5 @@
 {
-  "total_results": 1342,
+  "total_results": 1343,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -744,6 +744,173 @@
         ]
       },
       "place_guess": "Gualala Bluff Trail, Gualala, CA, US"
+    },
+    {
+      "id": 391868871,
+      "time_observed_at": "2026-08-16T10:31:23-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 662963190,
+          "position": 0,
+          "uuid": "186ff5cc-6757-4169-8227-608146691611",
+          "photo_id": 718080865,
+          "photo": {
+            "id": 718080865,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718080865/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662963511,
+          "position": 1,
+          "uuid": "97bae1a5-aa03-4dcb-9f04-35efa0002331",
+          "photo_id": 718081334,
+          "photo": {
+            "id": 718081334,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718081334/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979338,
+          "position": 2,
+          "uuid": "241451bf-8b66-403b-8364-5e03ade7e02c",
+          "photo_id": 718098493,
+          "photo": {
+            "id": 718098493,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1976,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098493/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979377,
+          "position": 3,
+          "uuid": "99794c26-0563-4b67-a585-4e78be27cafc",
+          "photo_id": 718098553,
+          "photo": {
+            "id": 718098553,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098553/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979431,
+          "position": 4,
+          "uuid": "6959d572-9c9f-47d6-b944-cb18c0d0866f",
+          "photo_id": 718098633,
+          "photo": {
+            "id": 718098633,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2021,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098633/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979521,
+          "position": 5,
+          "uuid": "7ee4cee5-5ced-4e0c-a65b-9d9c0f259444",
+          "photo_id": 718098769,
+          "photo": {
+            "id": 718098769,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098769/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979594,
+          "position": 6,
+          "uuid": "a7eea81f-934b-4396-801e-291d9a49a173",
+          "photo_id": 718098835,
+          "photo": {
+            "id": 718098835,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098835/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 662979681,
+          "position": 7,
+          "uuid": "d86beca4-b0b0-495f-a3ac-69df821f4b17",
+          "photo_id": 718098927,
+          "photo": {
+            "id": 718098927,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718098927/square.jpg",
+            "attribution": "(c) Redlands Angela, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.2592166667,
+          35.6640083333
+        ]
+      },
+      "place_guess": "Piedras Blancas Light Station, Ragged Point, CA, US"
     },
     {
       "id": 391010348,
@@ -1631,40 +1798,6 @@
         "coordinates": [
           -122.4801194444,
           37.5000305556
-        ]
-      },
-      "place_guess": "San Mateo County, CA, USA"
-    },
-    {
-      "id": 388662603,
-      "time_observed_at": "2026-08-05T14:29:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 657306069,
-          "position": 0,
-          "uuid": "61188a2d-b254-4554-890a-2bd9b5af2550",
-          "photo_id": 711857798,
-          "photo": {
-            "id": 711857798,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1553
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/711857798/square.jpg",
-            "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4787401161,
-          37.5011110299
         ]
       },
       "place_guess": "San Mateo County, CA, USA"
