@@ -1,5 +1,5 @@
 {
-  "total_results": 1358,
+  "total_results": 1359,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -373,6 +373,40 @@
         ]
       },
       "place_guess": "Marin County, CA, USA"
+    },
+    {
+      "id": 396302003,
+      "time_observed_at": "2026-08-27T13:21:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 670857143,
+          "position": 0,
+          "uuid": "0cc60544-b3ec-45a6-a986-d7fa125f0509",
+          "photo_id": 726767625,
+          "photo": {
+            "id": 726767625,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1541,
+              "height": 1028
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726767625/square.jpg",
+            "attribution": "(c) Gavin Skeen, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.8447840611,
+          33.6614239996
+        ]
+      },
+      "place_guess": "San Joaquin Marsh, Irvine, CA 92612, USA"
     },
     {
       "id": 394815768,
@@ -1805,40 +1839,6 @@
         ]
       },
       "place_guess": "Mill Valley, CA 94941, USA"
-    },
-    {
-      "id": 390928521,
-      "time_observed_at": "2026-08-13T10:41:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 661297221,
-          "position": 0,
-          "uuid": "2e7eea2e-34a9-4f65-8345-9b67d81af257",
-          "photo_id": 716250835,
-          "photo": {
-            "id": 716250835,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1366,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716250835/square.jpg",
-            "attribution": "(c) ldjaffe, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.0291294,
-          36.9532843
-        ]
-      },
-      "place_guess": "Lighthouse Field, Santa Cruz, CA 95060, USA"
     }
   ]
 }
