@@ -1,8 +1,42 @@
 {
-  "total_results": 1371,
+  "total_results": 1374,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 398163729,
+      "time_observed_at": "2026-09-06T14:56:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 674126153,
+          "position": 0,
+          "uuid": "d0caa78c-cd96-42a2-98af-a87a551206e9",
+          "photo_id": 730363896,
+          "photo": {
+            "id": 730363896,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1785,
+              "height": 1264
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/730363896/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -121.852604,
+          36.65732
+        ]
+      },
+      "place_guess": "Monterey Bay National Marine Sanctuary, CA"
+    },
     {
       "id": 397662874,
       "time_observed_at": "2026-09-05T16:12:00-07:00",
@@ -72,6 +106,40 @@
       "place_guess": "Dana Point, CA, US"
     },
     {
+      "id": 397543096,
+      "time_observed_at": "2026-09-04T09:59:32-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 673024086,
+          "position": 0,
+          "uuid": "79a738ac-57d0-450e-be46-d460dfe6a9e0",
+          "photo_id": 729149849,
+          "photo": {
+            "id": 729149849,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1630,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/729149849/square.jpg",
+            "attribution": "(c) boazsolorio, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.2046277449,
+          33.7822205274
+        ]
+      },
+      "place_guess": "Long Beach, CA 90813, USA"
+    },
+    {
       "id": 397175538,
       "time_observed_at": "2026-09-04T07:09:53-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -123,6 +191,59 @@
         ]
       },
       "place_guess": "Encinitas, CA, US"
+    },
+    {
+      "id": 397332920,
+      "time_observed_at": "2026-09-03T12:31:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 672653775,
+          "position": 0,
+          "uuid": "a8793fea-ea22-47e6-a7fd-8c27f177ffd0",
+          "photo_id": 728740003,
+          "photo": {
+            "id": 728740003,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/728740003/square.jpg",
+            "attribution": "(c) nitrecolas, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 672653776,
+          "position": 1,
+          "uuid": "1d6a11ab-6890-4b50-b937-66f9bd3c5df3",
+          "photo_id": 728739970,
+          "photo": {
+            "id": 728739970,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1536
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/728739970/square.jpg",
+            "attribution": "(c) nitrecolas, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -117.2287749302,
+          32.7517428256
+        ]
+      },
+      "place_guess": "Point Loma Heights, San Diego, CA, USA"
     },
     {
       "id": 397038595,
@@ -1262,146 +1383,6 @@
         ]
       },
       "place_guess": "W Cliff Dr, Santa Cruz, CA, US"
-    },
-    {
-      "id": 394427615,
-      "time_observed_at": "2026-08-23T07:53:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 667516900,
-          "position": 0,
-          "uuid": "d612c67c-70ba-415c-9e16-2d1c513ce2b1",
-          "photo_id": 723092187,
-          "photo": {
-            "id": 723092187,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723092187/square.jpg",
-            "attribution": "(c) Sean, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.8156832271,
-          33.5968665231
-        ]
-      },
-      "place_guess": "Orange County, US-CA, US"
-    },
-    {
-      "id": 394004551,
-      "time_observed_at": "2026-08-21T08:40:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 666760294,
-          "position": 0,
-          "uuid": "32de0100-19db-46e3-bff8-07adff6d27cb",
-          "photo_id": 722259405,
-          "photo": {
-            "id": 722259405,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1324
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722259405/square.jpg",
-            "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4344916667,
-          37.4206444444
-        ]
-      },
-      "place_guess": "San Mateo County, CA, USA"
-    },
-    {
-      "id": 392721411,
-      "time_observed_at": "2026-08-19T10:12:21-07:00",
-      "observed_time_zone": "America/Mazatlan",
-      "observation_photos": [
-        {
-          "id": 664474113,
-          "position": 0,
-          "uuid": "b2dae172-d7ed-44d3-b39c-d168eaff3a8b",
-          "photo_id": 719743663,
-          "photo": {
-            "id": 719743663,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719743663/square.jpg",
-            "attribution": "(c) Clarissa Rodriguez, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 664474115,
-          "position": 1,
-          "uuid": "951c6480-f31a-4f57-8f99-9321000cbf88",
-          "photo_id": 719743622,
-          "photo": {
-            "id": 719743622,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719743622/square.jpg",
-            "attribution": "(c) Clarissa Rodriguez, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 664474118,
-          "position": 2,
-          "uuid": "0a20735f-647a-4517-9558-83d6a096fd11",
-          "photo_id": 719743623,
-          "photo": {
-            "id": 719743623,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719743623/square.jpg",
-            "attribution": "(c) Clarissa Rodriguez, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -109.9059635329,
-          22.8824600208
-        ]
-      },
-      "place_guess": "Cabo San Lucas, B.C.S., MX"
     }
   ]
 }
