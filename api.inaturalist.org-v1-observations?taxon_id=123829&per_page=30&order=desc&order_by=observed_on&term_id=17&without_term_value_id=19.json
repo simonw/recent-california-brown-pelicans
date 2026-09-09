@@ -1,5 +1,5 @@
 {
-  "total_results": 1377,
+  "total_results": 1378,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -225,6 +225,40 @@
         ]
       },
       "place_guess": "Long Beach, CA 90813, USA"
+    },
+    {
+      "id": 397480613,
+      "time_observed_at": "2026-09-04T09:26:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 672913924,
+          "position": 0,
+          "uuid": "991ac227-2e8e-419b-a1c6-4f5c446b2897",
+          "photo_id": 729029906,
+          "photo": {
+            "id": 729029906,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 596,
+              "height": 321
+            },
+            "url": "https://static.inaturalist.org/photos/729029906/square.jpg",
+            "attribution": "(c) Thomas Shellenberger, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.8695086,
+          40.7450055
+        ]
+      },
+      "place_guess": "Humboldt County, CA, USA"
     },
     {
       "id": 397175538,
@@ -1254,59 +1288,6 @@
         ]
       },
       "place_guess": "Bodega Bay, CA, US"
-    },
-    {
-      "id": 394557930,
-      "time_observed_at": "2026-08-25T09:07:38-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 667745906,
-          "position": 0,
-          "uuid": "3c9a0267-7fbe-45c8-9e9a-9c10c60e53ff",
-          "photo_id": 723345176,
-          "photo": {
-            "id": 723345176,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 1765,
-              "height": 1324
-            },
-            "url": "https://static.inaturalist.org/photos/723345176/square.jpg",
-            "attribution": "(c) hana, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 667745907,
-          "position": 1,
-          "uuid": "17d9c301-89cb-422e-b5b8-c72000c14263",
-          "photo_id": 723345148,
-          "photo": {
-            "id": 723345148,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2006,
-              "height": 1504
-            },
-            "url": "https://static.inaturalist.org/photos/723345148/square.jpg",
-            "attribution": "(c) hana, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9418633333,
-          36.5072866667
-        ]
-      },
-      "place_guess": "Bird Island Trail, Carmel, CA, US"
     }
   ]
 }
