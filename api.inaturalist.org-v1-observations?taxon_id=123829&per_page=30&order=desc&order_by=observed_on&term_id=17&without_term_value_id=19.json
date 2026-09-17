@@ -1,8 +1,76 @@
 {
-  "total_results": 1403,
+  "total_results": 1406,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 400868647,
+      "time_observed_at": "2026-09-16T17:35:56-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 678919205,
+          "position": 0,
+          "uuid": "950a4ced-8c19-4e32-b8b9-78163443a4aa",
+          "photo_id": 735695344,
+          "photo": {
+            "id": 735695344,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735695344/square.jpg",
+            "attribution": "(c) katylysedel8, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0921083333,
+          40.854995
+        ]
+      },
+      "place_guess": "Arcata, CA, US"
+    },
+    {
+      "id": 400877414,
+      "time_observed_at": "2026-09-16T17:19:32-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 678935334,
+          "position": 0,
+          "uuid": "8fc66bf0-5186-4539-b54c-6d8f887c4cf9",
+          "photo_id": 735713313,
+          "photo": {
+            "id": 735713313,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1152,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735713313/square.jpg",
+            "attribution": "(c) Quentin Karcher, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -124.0990942811,
+          40.8600685979
+        ]
+      },
+      "place_guess": "Arcata, CA, US"
+    },
     {
       "id": 400650253,
       "time_observed_at": "2026-09-15T19:53:19-07:00",
@@ -1106,74 +1174,6 @@
         ]
       },
       "place_guess": "Astoria, OR 97103, USA"
-    },
-    {
-      "id": 397041356,
-      "time_observed_at": "2026-08-29T15:25:00-07:00",
-      "observed_time_zone": "America/Tijuana",
-      "observation_photos": [
-        {
-          "id": 672133671,
-          "position": 0,
-          "uuid": "3f972636-ab93-4665-8cef-ad02ce5c7cc7",
-          "photo_id": 728159688,
-          "photo": {
-            "id": 728159688,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 960,
-              "height": 720
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/728159688/square.jpg",
-            "attribution": "(c) Perla Castillo-Solis, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -115.9674605857,
-          30.4858206414
-        ]
-      },
-      "place_guess": "San Quintín, B.C., México"
-    },
-    {
-      "id": 395643298,
-      "time_observed_at": "2026-08-29T12:48:14-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 669666084,
-          "position": 0,
-          "uuid": "7bef7741-d054-4953-8092-2d1f8e4399bf",
-          "photo_id": 725462829,
-          "photo": {
-            "id": 725462829,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1152,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725462829/square.jpg",
-            "attribution": "(c) Megan Szostak, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.4786966667,
-          37.8562383333
-        ]
-      },
-      "place_guess": "Humboldt Ave, Sausalito, CA, US"
     }
   ]
 }
