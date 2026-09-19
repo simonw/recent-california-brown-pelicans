@@ -1,8 +1,42 @@
 {
-  "total_results": 1413,
+  "total_results": 1414,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 401419020,
+      "time_observed_at": "2026-09-18T17:34:00-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 679890605,
+          "position": 0,
+          "uuid": "cc3b7ba9-7c14-475b-a4b7-97e98e2654d0",
+          "photo_id": 736771050,
+          "photo": {
+            "id": 736771050,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1480,
+              "height": 916
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736771050/square.jpg",
+            "attribution": "(c) James Maughn, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.464134535,
+          38.0029403318
+        ]
+      },
+      "place_guess": "Marin County, CA, USA"
+    },
     {
       "id": 401125422,
       "time_observed_at": "2026-09-17T15:59:07-07:00",
@@ -1083,40 +1117,6 @@
         ]
       },
       "place_guess": "CA, US"
-    },
-    {
-      "id": 400742580,
-      "time_observed_at": "2026-09-01T18:39:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 678691929,
-          "position": 0,
-          "uuid": "4f3bbd17-f6bb-4a0c-9732-5ccfe82a6eee",
-          "photo_id": 734944036,
-          "photo": {
-            "id": 734944036,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734944036/square.jpg",
-            "attribution": "(c) Anna Krylova, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.925488,
-          36.740715
-        ]
-      },
-      "place_guess": "Monterey County, CA, USA"
     }
   ]
 }
