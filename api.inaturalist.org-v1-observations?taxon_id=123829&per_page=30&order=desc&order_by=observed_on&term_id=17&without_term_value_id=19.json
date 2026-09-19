@@ -1,5 +1,5 @@
 {
-  "total_results": 1414,
+  "total_results": 1415,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -70,6 +70,40 @@
         ]
       },
       "place_guess": "CA, US"
+    },
+    {
+      "id": 401425561,
+      "time_observed_at": "2026-09-17T11:17:31-06:00",
+      "observed_time_zone": "America/Mexico_City",
+      "observation_photos": [
+        {
+          "id": 679902555,
+          "position": 0,
+          "uuid": "7409238b-dc51-4526-b5f2-11e0d0deb182",
+          "photo_id": 736784598,
+          "photo": {
+            "id": 736784598,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 429,
+              "height": 763
+            },
+            "url": "https://static.inaturalist.org/photos/736784598/square.jpg",
+            "attribution": "(c) Tlaloque, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -105.2396783333,
+          20.600555
+        ]
+      },
+      "place_guess": "Puerto Vallarta, Central Pacific Region, MX"
     },
     {
       "id": 400868647,
@@ -1083,40 +1117,6 @@
         ]
       },
       "place_guess": "Point Loma Heights, San Diego, CA, USA"
-    },
-    {
-      "id": 397038595,
-      "time_observed_at": "2026-09-03T11:33:40-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 672128778,
-          "position": 0,
-          "uuid": "2203be1d-368e-4a00-b9d5-ad9f9700b22a",
-          "photo_id": 728166534,
-          "photo": {
-            "id": 728166534,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://static.inaturalist.org/photos/728166534/square.jpg",
-            "attribution": "(c) Jon McElroy, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.2326188403,
-          35.6515469819
-        ]
-      },
-      "place_guess": "CA, US"
     }
   ]
 }
