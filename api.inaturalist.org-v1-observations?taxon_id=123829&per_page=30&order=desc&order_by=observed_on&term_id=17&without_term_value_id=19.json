@@ -1,5 +1,5 @@
 {
-  "total_results": 1422,
+  "total_results": 1423,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -482,6 +482,59 @@
         ]
       },
       "place_guess": "Sunset Dunes, San Francisco, CA, US"
+    },
+    {
+      "id": 401709507,
+      "time_observed_at": "2026-09-11T18:53:28-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 680409938,
+          "position": 0,
+          "uuid": "8a06ffd7-9b83-4a38-a3a2-bc395779e682",
+          "photo_id": 737340272,
+          "photo": {
+            "id": 737340272,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1260,
+              "height": 1140
+            },
+            "url": "https://static.inaturalist.org/photos/737340272/square.jpg",
+            "attribution": "(c) Corrie G, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 680407228,
+          "position": 1,
+          "uuid": "74667e2d-0821-473b-bad4-7a19ce043bab",
+          "photo_id": 737337406,
+          "photo": {
+            "id": 737337406,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1153
+            },
+            "url": "https://static.inaturalist.org/photos/737337406/square.jpg",
+            "attribution": "(c) Corrie G, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.4599624053,
+          37.4927842717
+        ]
+      },
+      "place_guess": "Half Moon Bay, CA 94019, USA"
     },
     {
       "id": 399331593,
@@ -1064,59 +1117,6 @@
         ]
       },
       "place_guess": "Humboldt County, CA, USA"
-    },
-    {
-      "id": 397175538,
-      "time_observed_at": "2026-09-04T07:09:53-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 672374641,
-          "position": 0,
-          "uuid": "5aec0186-62fb-4399-a781-887a628b79d4",
-          "photo_id": 728435738,
-          "photo": {
-            "id": 728435738,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 945,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/728435738/square.jpg",
-            "attribution": "(c) curiousnature8, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 672374642,
-          "position": 1,
-          "uuid": "3600feb5-34e5-4cf9-af7e-39a170c49165",
-          "photo_id": 728435739,
-          "photo": {
-            "id": 728435739,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 945,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/728435739/square.jpg",
-            "attribution": "(c) curiousnature8, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2727741047,
-          33.0119381642
-        ]
-      },
-      "place_guess": "Encinitas, CA, US"
     }
   ]
 }
