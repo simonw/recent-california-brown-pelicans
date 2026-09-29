@@ -1,8 +1,42 @@
 {
-  "total_results": 1447,
+  "total_results": 1448,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 404334511,
+      "time_observed_at": "2026-09-28T14:54:36-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 685082956,
+          "position": 0,
+          "uuid": "d591cb27-6cf2-4dcc-9232-adb92dda642a",
+          "photo_id": 742514818,
+          "photo": {
+            "id": 742514818,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/742514818/square.jpg",
+            "attribution": "(c) Sarah Reid, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.7576666667,
+          39.1885616667
+        ]
+      },
+      "place_guess": "Albion, CA, US"
+    },
     {
       "id": 404119251,
       "time_observed_at": "2026-09-27T17:30:21-07:00",
@@ -1425,40 +1459,6 @@
         ]
       },
       "place_guess": "Bodega Bay, CA, US"
-    },
-    {
-      "id": 400485645,
-      "time_observed_at": "2026-09-12T11:51:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 678239322,
-          "position": 0,
-          "uuid": "6e64578b-4321-4591-b7df-2c669884dc62",
-          "photo_id": 734926899,
-          "photo": {
-            "id": 734926899,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734926899/square.jpg",
-            "attribution": "(c) Ciara T. McKim, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.2457313195,
-          40.7722941361
-        ]
-      },
-      "place_guess": "Humboldt County, CA, USA"
     }
   ]
 }
