@@ -1,5 +1,5 @@
 {
-  "total_results": 1465,
+  "total_results": 1466,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -426,6 +426,40 @@
         ]
       },
       "place_guess": "Trinidad, CA 95570, USA"
+    },
+    {
+      "id": 403772024,
+      "time_observed_at": "2026-09-26T17:34:14-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 684089202,
+          "position": 0,
+          "uuid": "554bc25b-016e-4e53-9ffe-348c92dce931",
+          "photo_id": 741402342,
+          "photo": {
+            "id": 741402342,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/741402342/square.jpg",
+            "attribution": "(c) Nettie Niles, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.513145,
+          37.7719583333
+        ]
+      },
+      "place_guess": "San Francisco, CA, US"
     },
     {
       "id": 403705609,
@@ -1634,40 +1668,6 @@
         ]
       },
       "place_guess": "Imperial Beach, CA, USA"
-    },
-    {
-      "id": 400868647,
-      "time_observed_at": "2026-09-16T17:35:56-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 678919205,
-          "position": 0,
-          "uuid": "950a4ced-8c19-4e32-b8b9-78163443a4aa",
-          "photo_id": 735695344,
-          "photo": {
-            "id": 735695344,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735695344/square.jpg",
-            "attribution": "(c) katylysedel8, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -124.0921083333,
-          40.854995
-        ]
-      },
-      "place_guess": "Arcata, CA, US"
     }
   ]
 }
