@@ -1,8 +1,95 @@
 {
-  "total_results": 1468,
+  "total_results": 1470,
   "page": 1,
   "per_page": 30,
   "results": [
+    {
+      "id": 405567575,
+      "time_observed_at": "2026-10-03T12:43:18-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 687294324,
+          "position": 0,
+          "uuid": "37a46d98-05a1-41a0-b090-f2a622e29c2b",
+          "photo_id": 744966924,
+          "photo": {
+            "id": 744966924,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/744966924/square.jpg",
+            "attribution": "(c) rsdesideri, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 687294327,
+          "position": 1,
+          "uuid": "66dbec1d-eea5-4e35-b26c-dacdfeec6c0f",
+          "photo_id": 744966920,
+          "photo": {
+            "id": 744966920,
+            "license_code": null,
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://static.inaturalist.org/photos/744966920/square.jpg",
+            "attribution": "(c) rsdesideri, all rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.0579556248,
+          38.3032033971
+        ]
+      },
+      "place_guess": "Bodega Head Trail, Bodega Bay, CA, US"
+    },
+    {
+      "id": 405630373,
+      "time_observed_at": "2026-10-03T11:35:02-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 687410034,
+          "position": 0,
+          "uuid": "840d0eb0-cc7e-4174-b8ad-2c83475793a5",
+          "photo_id": 745125274,
+          "photo": {
+            "id": 745125274,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 942,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/745125274/square.jpg",
+            "attribution": "(c) theonlyvizzini, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -123.2651216667,
+          38.524475
+        ]
+      },
+      "place_guess": "Coast Hwy, Jenner, CA, US"
+    },
     {
       "id": 405019681,
       "time_observed_at": "2026-10-01T07:36:00-07:00",
@@ -1600,74 +1687,6 @@
         ]
       },
       "place_guess": null
-    },
-    {
-      "id": 401960502,
-      "time_observed_at": "2026-09-17T17:49:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 680859980,
-          "position": 0,
-          "uuid": "7540bbf0-c205-487b-8fdd-f54184a0bb83",
-          "photo_id": 737819905,
-          "photo": {
-            "id": 737819905,
-            "license_code": "cc-by",
-            "original_dimensions": {
-              "width": 1902,
-              "height": 1272
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737819905/square.jpg",
-            "attribution": "(c) Gavin Skeen, some rights reserved (CC BY)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -118.0151083884,
-          33.5597058046
-        ]
-      },
-      "place_guess": null
-    },
-    {
-      "id": 401125422,
-      "time_observed_at": "2026-09-17T15:59:07-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 679374756,
-          "position": 0,
-          "uuid": "c737767e-bb90-443b-abdf-a17685c6836f",
-          "photo_id": 736203984,
-          "photo": {
-            "id": 736203984,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1920,
-              "height": 1280
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736203984/square.jpg",
-            "attribution": "(c) khiara gapasangra, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -121.9531546936,
-          36.5198946024
-        ]
-      },
-      "place_guess": "CA, US"
     }
   ]
 }
