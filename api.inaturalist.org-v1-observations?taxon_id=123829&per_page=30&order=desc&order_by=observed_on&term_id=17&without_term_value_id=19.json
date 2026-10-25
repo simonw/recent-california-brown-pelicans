@@ -1,5 +1,5 @@
 {
-  "total_results": 1508,
+  "total_results": 1509,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -695,6 +695,40 @@
         ]
       },
       "place_guess": "Ventura, CA, US"
+    },
+    {
+      "id": 408994998,
+      "time_observed_at": "2026-10-14T18:50:45-07:00",
+      "observed_time_zone": "America/Tijuana",
+      "observation_photos": [
+        {
+          "id": 693520064,
+          "position": 0,
+          "uuid": "982ac888-8192-472f-a8fb-5932d4146a39",
+          "photo_id": 751911477,
+          "photo": {
+            "id": 751911477,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1268
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/751911477/square.jpg",
+            "attribution": "(c) Xochitl Zambrano, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -115.2767702937,
+          32.1564513281
+        ]
+      },
+      "place_guess": "21742 B.C., México"
     },
     {
       "id": 408409691,
@@ -1444,40 +1478,6 @@
         ]
       },
       "place_guess": "Newport, OR, USA"
-    },
-    {
-      "id": 405019681,
-      "time_observed_at": "2026-10-01T07:36:00-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 686305885,
-          "position": 0,
-          "uuid": "7f2e5b41-8f75-4f79-bb7c-43956f80beed",
-          "photo_id": 743866985,
-          "photo": {
-            "id": 743866985,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1365
-            },
-            "url": "https://static.inaturalist.org/photos/743866985/square.jpg",
-            "attribution": "(c) Kaelyn D., all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.2515961356,
-          32.8766984041
-        ]
-      },
-      "place_guess": "San Diego County, CA, USA"
     }
   ]
 }
