@@ -1,5 +1,5 @@
 {
-  "total_results": 1517,
+  "total_results": 1520,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -176,6 +176,40 @@
         ]
       },
       "place_guess": "San Mateo County, CA, USA"
+    },
+    {
+      "id": 410834296,
+      "time_observed_at": null,
+      "observed_time_zone": "America/Tijuana",
+      "observation_photos": [
+        {
+          "id": 696891934,
+          "position": 0,
+          "uuid": "02e919a8-032b-4354-9581-a9fc5994adcc",
+          "photo_id": 755667139,
+          "photo": {
+            "id": 755667139,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 899,
+              "height": 1599
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755667139/square.jpg",
+            "attribution": "(c) sirgelotron, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -116.6282891482,
+          31.8606862179
+        ]
+      },
+      "place_guess": "México"
     },
     {
       "id": 410543416,
@@ -871,6 +905,78 @@
       "place_guess": "Alameda, CA, USA"
     },
     {
+      "id": 410404082,
+      "time_observed_at": "2026-10-15T09:32:31-07:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 696098757,
+          "position": 0,
+          "uuid": "a70c41c9-ffbe-44b4-be41-6a2472ade76b",
+          "photo_id": 754787431,
+          "photo": {
+            "id": 754787431,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2018,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/754787431/square.jpg",
+            "attribution": "(c) Calvin, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 696098836,
+          "position": 1,
+          "uuid": "4f8fea0f-239e-4aa7-8bdb-5d27210044aa",
+          "photo_id": 754788962,
+          "photo": {
+            "id": 754788962,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1890
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/754788962/square.jpg",
+            "attribution": "(c) Calvin, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 696100063,
+          "position": 2,
+          "uuid": "88d631b5-be4d-439f-b8ee-4345f3836d2e",
+          "photo_id": 754788998,
+          "photo": {
+            "id": 754788998,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1992
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/754788998/square.jpg",
+            "attribution": "(c) Calvin, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -118.2527703792,
+          33.7081391497
+        ]
+      },
+      "place_guess": "San Pedro, CA 90731, USA"
+    },
+    {
       "id": 409056157,
       "time_observed_at": "2026-10-15T08:56:55-07:00",
       "observed_time_zone": "America/Los_Angeles",
@@ -1372,74 +1478,6 @@
         ]
       },
       "place_guess": "El Carmel Pl, San Diego, CA, US"
-    },
-    {
-      "id": 407423992,
-      "time_observed_at": "2026-10-10T09:43:10-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 690657003,
-          "position": 0,
-          "uuid": "0b152e43-89e6-4bc9-99b2-cce70a4fe210",
-          "photo_id": 748708844,
-          "photo": {
-            "id": 748708844,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 1536,
-              "height": 2048
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748708844/square.jpg",
-            "attribution": "(c) alex_tran, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -117.8455966667,
-          33.6601133333
-        ]
-      },
-      "place_guess": "San Joaquin Marsh and Wildlife Sanctuary, Irvine, CA, US"
-    },
-    {
-      "id": 407270601,
-      "time_observed_at": "2026-10-09T09:53:39-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 690376688,
-          "position": 0,
-          "uuid": "cd9295cf-bf54-4340-87cb-054d216b8a01",
-          "photo_id": 748398578,
-          "photo": {
-            "id": 748398578,
-            "license_code": null,
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1767
-            },
-            "url": "https://static.inaturalist.org/photos/748398578/square.jpg",
-            "attribution": "(c) Corrie G, all rights reserved",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -119.8441464454,
-          34.4064659601
-        ]
-      },
-      "place_guess": "Reef/Aquarium, Santa Barbara, CA 93117, USA"
     }
   ]
 }
