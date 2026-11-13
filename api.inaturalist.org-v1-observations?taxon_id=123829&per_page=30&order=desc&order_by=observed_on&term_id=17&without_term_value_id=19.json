@@ -1,5 +1,5 @@
 {
-  "total_results": 1555,
+  "total_results": 1556,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -377,6 +377,59 @@
         ]
       },
       "place_guess": "Mendocino, headlands"
+    },
+    {
+      "id": 414371514,
+      "time_observed_at": "2026-11-09T14:24:02-06:00",
+      "observed_time_zone": "America/Mexico_City",
+      "observation_photos": [
+        {
+          "id": 703351878,
+          "position": 0,
+          "uuid": "9a10875b-b8bb-4d75-a541-48def6122735",
+          "photo_id": 762810814,
+          "photo": {
+            "id": 762810814,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762810814/square.jpg",
+            "attribution": "(c) Melissa Palafox Barbosa, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 703351891,
+          "position": 1,
+          "uuid": "fb8abfcf-ac45-4693-b66c-b4b1c142df38",
+          "photo_id": 762810834,
+          "photo": {
+            "id": 762810834,
+            "license_code": "cc-by-nc",
+            "original_dimensions": {
+              "width": 1536,
+              "height": 2048
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762810834/square.jpg",
+            "attribution": "(c) Melissa Palafox Barbosa, some rights reserved (CC BY-NC)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -105.2408836037,
+          20.6431157467
+        ]
+      },
+      "place_guess": "Las Glorias, 48333 Puerto Vallarta, Jal., México"
     },
     {
       "id": 413864977,
@@ -1425,78 +1478,6 @@
         ]
       },
       "place_guess": "Jacoby Creek, Eureka, CA, USA"
-    },
-    {
-      "id": 409362623,
-      "time_observed_at": "2026-10-18T14:15:25-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 694201198,
-          "position": 0,
-          "uuid": "7e462f34-bc17-4459-b2ef-ba2983a9a133",
-          "photo_id": 752667437,
-          "photo": {
-            "id": 752667437,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1153
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/752667437/square.jpg",
-            "attribution": "(c) caronen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 694201240,
-          "position": 1,
-          "uuid": "eeaad40b-9308-4f24-b283-103970b91032",
-          "photo_id": 752668171,
-          "photo": {
-            "id": 752668171,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1153
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/752668171/square.jpg",
-            "attribution": "(c) caronen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 694201810,
-          "position": 2,
-          "uuid": "9543c000-34d2-421c-8d19-09da31108a85",
-          "photo_id": 752668362,
-          "photo": {
-            "id": 752668362,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1153
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/752668362/square.jpg",
-            "attribution": "(c) caronen, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -122.1854138374,
-          37.0040866218
-        ]
-      },
-      "place_guess": "Davenport, CA 95017, USA"
     }
   ]
 }
