@@ -1,5 +1,5 @@
 {
-  "total_results": 1567,
+  "total_results": 1568,
   "page": 1,
   "per_page": 30,
   "results": [
@@ -55,6 +55,59 @@
         ]
       },
       "place_guess": "Bolsa Chica Ecological Reserve, 18000 CA-1, Huntington Beach, CA 92648, USA"
+    },
+    {
+      "id": 416476770,
+      "time_observed_at": "2026-11-21T11:58:00-08:00",
+      "observed_time_zone": "America/Los_Angeles",
+      "observation_photos": [
+        {
+          "id": 707148883,
+          "position": 0,
+          "uuid": "ac0a3710-d371-4907-99da-1e320d7c28e4",
+          "photo_id": 767014729,
+          "photo": {
+            "id": 767014729,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/767014729/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        },
+        {
+          "id": 707148884,
+          "position": 1,
+          "uuid": "60e84b75-ad3e-4d35-864e-f8496ceb79e6",
+          "photo_id": 767014740,
+          "photo": {
+            "id": 767014740,
+            "license_code": "cc0",
+            "original_dimensions": {
+              "width": 2048,
+              "height": 1365
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/767014740/square.jpg",
+            "attribution": "no rights reserved",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        }
+      ],
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -122.3763549315,
+          37.7467101682
+        ]
+      },
+      "place_guess": "Pier 94 Wetlands, San Francisco, CA, USA"
     },
     {
       "id": 414951084,
@@ -1368,59 +1421,6 @@
         ]
       },
       "place_guess": "Cannery Row, Monterey, CA, US"
-    },
-    {
-      "id": 410651168,
-      "time_observed_at": "2026-10-24T14:57:42-07:00",
-      "observed_time_zone": "America/Los_Angeles",
-      "observation_photos": [
-        {
-          "id": 696555346,
-          "position": 0,
-          "uuid": "891ed4fa-52c6-4a2a-a8ce-825df6396006",
-          "photo_id": 755296027,
-          "photo": {
-            "id": 755296027,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755296027/square.jpg",
-            "attribution": "(c) calyptecorvid, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        },
-        {
-          "id": 696555362,
-          "position": 1,
-          "uuid": "e57a3672-012f-4199-970d-8ed1f4e98f8c",
-          "photo_id": 755296055,
-          "photo": {
-            "id": 755296055,
-            "license_code": "cc-by-nc",
-            "original_dimensions": {
-              "width": 2048,
-              "height": 1536
-            },
-            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755296055/square.jpg",
-            "attribution": "(c) calyptecorvid, some rights reserved (CC BY-NC)",
-            "flags": [],
-            "moderator_actions": [],
-            "hidden": false
-          }
-        }
-      ],
-      "geojson": {
-        "type": "Point",
-        "coordinates": [
-          -123.0656269938,
-          38.3029012648
-        ]
-      },
-      "place_guess": "Bodega Bay, CA, USA"
     }
   ]
 }
